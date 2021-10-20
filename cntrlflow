@@ -1,0 +1,9 @@
+package controlFlow
+
+class controlFlow
+
+fun main() {
+    val nilaiUjian = 78
+    if (nilaiUjian < 82){
+        println("kamu lulus ujian dengan nilai $nilaiUjian")
+    }
